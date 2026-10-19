@@ -1,0 +1,137 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #FDF9EE;
+}
+.ancho{
+  max-width: 1200px;
+  margin: auto;
+}
+.centrar{
+  text-align: center;
+}
+.margen{
+  border: 5px #503733 solid;
+}
+.rocas{
+  padding: 150px 20px;
+  background: url('imagenes/fondopiedras.jpg') no-repeat center/cover;
+  color: white;
+  margin-top: 20px;
+}
+.negritas {
+  font-weight: bold;
+}
+
+.logo{
+  display: inline-block;
+  vertical-align: middle;
+width: 200px;
+}
+.logo img{
+  width: 100%;
+}
+.redes{
+  width: 970px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: right;
+}
+.redes a{
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 20px;
+}
+.redes a img{
+  width: 100%;
+}
+.cont_menu{
+  padding: 10px;
+}
+.cont_menu a{
+  display: inline-block;
+  vertical-align: middle;
+  border: 1px green solid;
+}
+.rosa{
+  background-color: #E5357E;
+  color: #E5357E;
+  height: 20px;
+}
+.rosita{
+  color: #E5357E;
+}
+.alado{
+  display: inline-block;
+  width: 23%;
+  vertical-align: top;
+}
+.delado{
+  display: inline-block;
+  width: 40%;
+  vertical-align: top;
+  margin-top: 50px;
+}
+.imagen2 {
+  display: inline-block;
+  width: 40%;
+  vertical-align: middle;
+}
+.imagen2 img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.fondo1{
+  background-color: #FFE8A5;
+  height: 350px;
+}
+.fondo2{
+  background-color: #FFFFFF;
+  height: 400px;
+}
+.imagen {
+  display: inline-block;
+  width: 33%;
+  vertical-align: middle;
+}
+.imagen img {
+  width: 30%;
+  height: auto;
+  display: block;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: auto;
+}
+.imagen3 {
+  display: inline-block;
+  width: 35%;
+  vertical-align: middle;
+}
+.imagen3 img {
+  width: 70%;
+  height: auto;
+  display: block;
+}
+.fondo3{
+  background-color: #FFFFFF;
+  height: 200px;
+}
+.fondo3 img{
+  margin-top: 50px;
+}
+.margen2{
+  border: 5px #E5357E solid;
+  color: white;
+}
+.fondo4{
+  background-color: #E5357E;
+  border: 5px #E5357E solid;
+  color: white;
+}
